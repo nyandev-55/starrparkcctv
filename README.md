@@ -1,3 +1,11 @@
+
+<img width="1919" height="812" alt="Ekran görüntüsü 2026-10-17 172302" src="https://github.com/user-attachments/assets/88a6c6d7-c6f8-40c4-bc51-ea855feb89b4" />
+
+
+
+
+
+
 Starr Park CCTV Web Application (Archived Edition)
 
 An archival and restoration project for the interactive Starr Park CCTV Security Camera System from Brawl Stars (Supercell). This repository hosts the static frontend interface, reconstructs broken assets, and emulates missing player modules for local hosting.
